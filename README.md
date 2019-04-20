@@ -9,7 +9,18 @@ This applicatiton is plugin for [Twing](https://github.com/flum1025/twing).
 
 ## Usage
 
-TODO: Write usage instructions here
+Add configuration
+
+REF: [twing#configuration-file](https://github.com/flum1025/twing#configuration-file)
+
+Example
+
+```yaml
+modules:
+  proxy:
+    endpoints:
+      - http://localhost:9292/webhook
+```
 
 ## Contributing
 
