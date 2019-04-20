@@ -1,6 +1,6 @@
 # TwingProxy
 
-Proxy for Twing
+Proxy for Twing  
 This applicatiton is plugin for [Twing](https://github.com/flum1025/twing).
 
 ## Installation
